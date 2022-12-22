@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+
+
+img {
+        opacity: 0.8;
+    }
+
+
+img:hover {
+        opacity: 1.0;
+    }
+
+section{
+display: flex;
+flex-wrap: wrap;
+width: 1000px;
+row-gap: 10px;
+column-gap: 10px;
+}
